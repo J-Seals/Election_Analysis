@@ -6,7 +6,7 @@ The purpose of this project is to help project the winnning candidate in an elec
 Votes were taken from three different counties and was used to determine the total number of
 votes, as well as the county with the highest number of votes. In addition, votes were tallied
 for each of the three candidates, to determine which candidate had the highest number of votes
-and would named the winner of the election.
+and would be named the winner of the election.
 
 ## Election Audit Results
 - **Total Votes Cast:**

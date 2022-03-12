@@ -32,7 +32,7 @@ less than Denver County.
 Diana DeGette had the highest voter turnout with 272,892 votes out of 369,711 total votes.
 Candidate Diana Degette received approximately 74% of the votes. Charles Casper Stockham
 trailed behind in second, only receiving 85,213 followed by Raymond Anthony Doane with only
-11,606 votes. Candidates Charles Casper Stockham and Raymond Anthiny Doane received a combined
+11,606 votes. Candidates Charles Casper Stockham and Raymond Anthony Doane received a combined
 total of approximately 26% of votes, which is significantly less than Candidate Diana DeGette.
 
 ### Breakdown of Winning Candidate's Votes

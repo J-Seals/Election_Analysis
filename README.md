@@ -52,5 +52,5 @@ counted manually by one person or persons. Now, if you choose to use this script
 future elections, a few things would have to change. For instance, the csv file would be
 different and would have to be updated within the script. Another small modification, 
 would be changing county to state, city, etc. based on what kind of election you would
-be using this code. But this script could be useful and go a long way if tweaked and
+be using this code for. But this script could be useful and go a long way if tweaked and
 tailored to a specific election.

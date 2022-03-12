@@ -47,7 +47,7 @@ The following script can be used to determine a winner for any election and is e
 and effective. This script allows the computer to determine the number of total votes,
 percentage of votes per county and per candidate, then spews out the winning candidate
 based on the code written within the script. Using this method saves time and could
-results in less errors compared to having this information being inputted manually and 
+results in less errors compared to having this information inputted manually or 
 counted manually by one person or persons. Now, if you choose to use this script for 
 future elections, a few things would have to change. For instance, the csv file would be
 different and would have to be updated within the script. Another small modification, 
